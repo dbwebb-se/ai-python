@@ -6,7 +6,7 @@ This repo contains guides and example programs for utilizing BTH:s OpenAI API.
 
 In the `guides`-folder quick start and a more advanced project guides can be found.
 
-For [quick_start](guides/guick_start.md) follow this guide.
+For [quick_start](guides/quick_start.md) follow this guide.
 
 For a more [advanced](guides/advanced.md) example follow this guide, preferably after the quick start guide.
 
